@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello,i am a computer engineer who interests in programming language/frameworks like java, c#, javascript,spring boot and so on
+I am currently working for Fibabanka
+
 <!--
 **marikaya/marikaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
